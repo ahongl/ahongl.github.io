@@ -1,4 +1,3 @@
-# ahongl.github.io
 **前期准备**
 拥有一个Github账号 ([注册](https://github.com/)),并且已经创建自己的github Pages的项目([教程](https://pages.github.com/))
 本地电脑的公钥已经加入到Github上了,[如何生成本机公钥](http://blog.csdn.net/hustpzb/article/details/8230454)
